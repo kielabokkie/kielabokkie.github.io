@@ -1,5 +1,6 @@
 # Testing
 * <a href="http://performance.webmastersguard.com">Load Speed Test</a>
+* <a href="https://github.com/tsenart/vegeta">Vegeta</a> - Load testing tool
 
 # PHP Packages
 * <a href="https://github.com/clarkeash/doorman">Doorman</a> - Limit access to your Laravel applications by using invite codes
